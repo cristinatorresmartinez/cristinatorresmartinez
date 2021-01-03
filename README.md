@@ -20,7 +20,7 @@ I am a Software Engineer based in the Bryan/College Station, TX area I am profic
 I come from a small town in Mexico. I immigrated to Arlington, TX, and then my family settled in Deep East Texas in a small town called Waskom, TX. I graduated high school and attended Texas A&M University. Working in the health field for about 4 years now I want to pursue my passion in coding. I found Leon through Reddit and became an avid follower of his on Twitch and Twitter. 
 
 
-- 📫 How to reach me: 903-926-9602, c.torres.martinez.97@gmail.com
+- 📫 How to reach me: 903-926-9602 https://cristinatorresmartinez.netlify.app/
 
 
 ![](https://komarev.com/ghpvc/?username=cristinatorresmartinez&color=blue&label=PROFILE+VIEWS)
