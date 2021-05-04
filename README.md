@@ -10,8 +10,11 @@
 
 <hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span align="center"> ![](https://komarev.com/ghpvc/?username=cristinatorresmartinez&color=blue&label=PROFILE+VIEWS)</span>
+
+<span align="center"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ![](https://komarev.com/ghpvc/?username=cristinatorresmartinez&color=blue&label=PROFILE+VIEWS)
+</span>
 
 
 <hr>
