@@ -5,7 +5,7 @@
 <hr>
 
  <p align="center">
-  <samp>Put Intro Here
+  <samp>Solution-driven full-stack software developer with a background in the medical field. After graduating from Texas A&M Univeristy (Whoop!) I worked in the healtcare setting for a handful of years. I am in the process of transition to software development and taking with me the skills I learned while assissting patients day in and day out. In my free time I like to go on hikes, bother my two rescue pups, and try all of the restaurants/speakeasies I can in the Austin area!
   </samp>
   <br> <br>
 </p>
