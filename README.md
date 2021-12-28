@@ -1,12 +1,14 @@
 # Hello, folks!
 
-My name is Cristina and I'm a developer. You can find me on <img src="https://img.icons8.com/ios/50/000000/twitter--v3.png"/>,  or on <img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png"/>.
+My name is Cristina and I'm a developer. You can find me on 
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 
