@@ -4,7 +4,7 @@ My name is Cristina and I'm a developer. You can find me on
 <br>
 [![Gmail Badge](https://img.shields.io/badge/c.torres.martinez.97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.c.torres.martinez.97@gmail.com)](mailto:ing.miller.vega@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-cristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristinatorresmartinez/)](https://www.linkedin.com/in/minoveaz/)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 [![Twitter Badge](https://img.shields.io/badge/-@c_t_martinez-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=c_t_martinez "Follow on Twitter")
 
 <br>
