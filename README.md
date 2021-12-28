@@ -1,6 +1,6 @@
 # Hello, folks!
 
-My name is Cristina and I'm a developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Cristina and I'm a developer. You can find me on <img src="https://img.icons8.com/ios/50/000000/twitter--v3.png"/>,  or on <img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v2.png"/>.
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +21,6 @@ My name is Cristina and I'm a developer. You can find me on [![Twitter][1.2]][1]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: 
 
 
 <!-- links to your social media accounts -->
