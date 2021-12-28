@@ -1,14 +1,31 @@
-<h1 align="center">Hi 👋, I'm Cristina</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristinatorresmartinez&label=Profile%20views&color=0e75b6&style=flat" alt="cristinatorresmartinez" /> </p>
+# Hello, folks!
 
-- 📫 How to reach me **c.torres.martinez.97@gmail.com**
+My name is Cristina and I'm a developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/cristinatorresmartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/cristinatorresmartinez" height="30" width="40" /></a>
-<a href="https://twitter.com/c_t_martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_t_martinez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cristinatorresmartinez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristinatorresmartinez/" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: 
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/C_T_Martinez
+[2]: https://codepen.io/cristinatorresmartinez
+[3]: https://www.linkedin.com/in/cristinatorresmartinez/
